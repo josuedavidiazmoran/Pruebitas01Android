@@ -18,6 +18,16 @@ public class MenuPrincipal extends AppCompatActivity {
         Intent regresar = new Intent(this, LoginActivity.class);
         startActivity(regresar);
     }
-
-
+    public void Sumar (View view){
+        Intent sumar = new Intent(this, SumaActivity.class);
+        startActivity(sumar);
+    }
+    public void Raiz (View view){
+        Intent raiz = new Intent(this, RaizActivity.class);
+        startActivity(raiz);
+    }
+    public void ParImpar (View view){
+        Intent parimpar = new Intent(this, ParImparActivity.class);
+        startActivity(parimpar);
+    }
 }

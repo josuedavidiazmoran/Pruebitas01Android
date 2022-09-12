@@ -12,4 +12,6 @@
     <string name="xd">xd</string>
     <string name="entrar">Entrar</string>
     <string name="regresar">Regresar</string>
+    <string name="menu">Menu</string>
+    <string name="suma_de_numeros">SUMA DE NUMEROS</string>
 </resources>
